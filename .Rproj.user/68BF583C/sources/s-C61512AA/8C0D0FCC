@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583244870007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8C0D0FCC",
+    "lastKnownWriteTime" : 1583244918,
+    "last_content_update" : 1583244918,
+    "path" : "L:/LovbeskyttetMapper/BogA - Analyse/Mirza/packages/handytools/man/color_options.Rd",
+    "project_path" : "man/color_options.Rd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

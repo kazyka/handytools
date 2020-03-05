@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583244858505.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2388909685",
+    "id" : "43F4DDDC",
+    "lastKnownWriteTime" : 1583244521,
+    "last_content_update" : 1583244521,
+    "path" : "L:/LovbeskyttetMapper/BogA - Analyse/Mirza/packages/handytools/man/plot_colors.Rd",
+    "project_path" : "man/plot_colors.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/plot_colors.R"
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,6 @@
+data(handytools::color_options)
+
+test <- handytools::color_options
+
+handytools::plot_colors(test)
+handytools::

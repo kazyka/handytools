@@ -1,0 +1,19 @@
+Package: handytools
+Title: Different tools for the department at BOA
+Version: 0.1.0
+Author: c(
+    person("Hasanbasc", "Mirza", , "mirza.hasanbasic@regionh.dk", c("aut", "cre"))
+    )
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.5.0)
+Suggests:
+    graphics
+Import:
+    plot
+RoxygenNote: 7.0.2
